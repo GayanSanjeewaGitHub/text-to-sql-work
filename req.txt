@@ -1,0 +1,8 @@
+pandas
+numpy
+langchain
+openai
+weaviate-client
+ragas
+python-dotenv
+tabulate
