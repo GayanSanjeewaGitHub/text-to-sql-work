@@ -7,3 +7,5 @@ ragas
 python-dotenv
 tabulate
 openai
+matplotlib
+seaborn
